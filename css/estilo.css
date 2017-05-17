@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 1em;
+}
+
+body{
+    width: 80%;
+    margin:1em auto;
+    background: plum; 
+}
+
+
+div#respuesta{
+    background: lemonchiffon;
+}
+
