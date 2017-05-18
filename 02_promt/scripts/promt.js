@@ -6,7 +6,7 @@ sApellido=prompt("Dime tu apellido","");
 
 console.log("Hola "+ sNombre + " " + sApellido);
 
-alert("Hola "+ sNombre + sApellido);
+//alert("Hola "+ sNombre + sApellido);
 
 
 
