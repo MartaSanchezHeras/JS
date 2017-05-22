@@ -8,9 +8,9 @@ var vuelos= {
         hora:"14:30",
         ciudad:"Sydney",
 
-     };
+     },
 
-        llegada:{
+        legada:{
 
         clsveIATA:"LAX",
         hora:"10:30",
